@@ -1,6 +1,6 @@
 # Localization of Transaprent Cups using Machine Learning
 
-## Abstract
+## Synopsis
 This topic is taken from real-time applications in industries. If the bottles or cups moving
 vertically in position in a conveyor, there are possibilities for bottles or cups to fall horizontally
 on the conveyor. In those cases, the cup must be detected and placed in an upright position
@@ -90,4 +90,12 @@ used was red to specify the lying cup.
 
 <p align="center">
   <img width="200" height="200" src="https://github.com/saikrishnathonduru/Localization_of_Transaprent_Cups/blob/main/Images/ir_0001_detected.bmp?raw=true" alt="Sublime's custom image"/>
+</p>
+
+<p align="center">
+  <img width="200" height="200" src="https://github.com/saikrishnathonduru/Localization_of_Transaprent_Cups/blob/main/Images/ir_0002_detected.bmp?raw=true" alt="Sublime's custom image"/>
+</p>
+
+<p align="center">
+  <img width="200" height="200" src="https://github.com/saikrishnathonduru/Localization_of_Transaprent_Cups/blob/main/Images/ir_0003_detected.bmp?raw=true" alt="Sublime's custom image"/>
 </p>
