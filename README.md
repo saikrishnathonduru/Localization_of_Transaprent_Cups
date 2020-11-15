@@ -89,14 +89,59 @@ used was red to specify the lying cup.
 
 
 <p align="center">
-  <img width="200" height="200" src="https://github.com/saikrishnathonduru/Localization_of_Transaprent_Cups/blob/main/Images/ir_0001_detected.bmp?raw=true" alt="Sublime's custom image"/>
+  <img width="400" height="400" src="https://github.com/saikrishnathonduru/Localization_of_Transaprent_Cups/blob/main/Images/ir_0001_detected.bmp?raw=true" alt="Sublime's custom image"/>
 </p>
 
 <p align="center">
-  <img width="200" height="200" src="https://github.com/saikrishnathonduru/Localization_of_Transaprent_Cups/blob/main/Images/ir_0002_detected.bmp?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/saikrishnathonduru/Localization_of_Transaprent_Cups/blob/main/Images/Lying_cup1_Output.PNG?raw=true" alt="Sublime's custom image"/>
 </p>
 
 <p align="center">
-  <img width="200" height="200" src="https://github.com/saikrishnathonduru/Localization_of_Transaprent_Cups/blob/main/Images/ir_0003_detected.bmp?raw=true" alt="Sublime's custom image"/>
+  <img width="400" height="400" src="https://github.com/saikrishnathonduru/Localization_of_Transaprent_Cups/blob/main/Images/ir_0003_detected.bmp?raw=true" alt="Sublime's custom image"/>
 </p>
-<p style="text-align: center">Detection of Lying Cups</p>
+
+<p align="center">
+  <img src="https://github.com/saikrishnathonduru/Localization_of_Transaprent_Cups/blob/main/Images/Lying_cup2_Output.PNG?raw=true" alt="Sublime's custom image"/>
+</p>
+
+### Detection of upright transparent cups
+
+<p align="center">
+  <img width="400" height="400" src="https://github.com/saikrishnathonduru/Localization_of_Transaprent_Cups/blob/main/Images/Upright_Cup1.PNG?raw=true" alt="Sublime's custom image"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/saikrishnathonduru/Localization_of_Transaprent_Cups/blob/main/Images/Upright_Cup1_Output.PNG?raw=true" alt="Sublime's custom image"/>
+</p>
+
+<p align="center">
+  <img width="400" height="400" src="https://github.com/saikrishnathonduru/Localization_of_Transaprent_Cups/blob/main/Images/Upright_Cup2.PNG?raw=true" alt="Sublime's custom image"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/saikrishnathonduru/Localization_of_Transaprent_Cups/blob/main/Images/Upright_Cup2_Output..PNG?raw=true" alt="Sublime's custom image"/>
+</p>
+
+### Validation of transparent cups
+
+<p align="center">
+  <img src="https://github.com/saikrishnathonduru/Localization_of_Transaprent_Cups/blob/main/Images/CupsTable.PNG?raw=true" alt="Sublime's custom image"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/saikrishnathonduru/Localization_of_Transaprent_Cups/blob/main/Images/CupsGraph.PNG?raw=true" alt="Sublime's custom image"/>
+</p>
+
+The above table shows the observations and graph depicts the validation accuracy of the
+transparent cups. The images from 640 to 6912 were trained by keeping constant epochs and
+saving the respective weight files separately. Predicting the new image dataset and calculate
+the accuracy by averaging the sample of 30 validated images. Let’s take a simple example, In
+order to answer every question in examinations the preparation behind can be correlated with
+the above training method. i.e If only a few topics (No. of Pages) are studied in the entire book
+thoroughly (Epoch Count) then questions pertaining to that specifying topic could be
+answered perfectly. On the other hand, if all topics ( More No. of the pages) are studied few
+times ( Moderated Epoch count) eventually all questions can be answered that represent fast
+reply or computation speed at moderate accuracy. Understanding is a new image dataset and
+reply is computation speed. Figures shows clearly the accuracy increasing gradually by
+increasing the number of the variance of images.
+
