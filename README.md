@@ -99,3 +99,4 @@ used was red to specify the lying cup.
 <p align="center">
   <img width="200" height="200" src="https://github.com/saikrishnathonduru/Localization_of_Transaprent_Cups/blob/main/Images/ir_0003_detected.bmp?raw=true" alt="Sublime's custom image"/>
 </p>
+<p style="text-align: center">Detection of Lying Cups</p>
